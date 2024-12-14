@@ -1,0 +1,10 @@
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5_BT.csproj.AssemblyReference.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5_BT.csproj.GenerateResource.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5_BT.csproj.CoreCompileInputs.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\bin\Debug\Buoi5.exe.config
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\bin\Debug\Buoi5.exe
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\bin\Debug\Buoi5.pdb
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.exe
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.pdb
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.Form1.resources

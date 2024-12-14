@@ -1,0 +1,4 @@
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
