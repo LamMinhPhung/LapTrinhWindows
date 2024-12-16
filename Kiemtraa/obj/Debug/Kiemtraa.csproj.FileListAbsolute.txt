@@ -1,0 +1,15 @@
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\Kiemtraa.exe.config
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\Kiemtraa.exe
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\Kiemtraa.pdb
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\EntityFramework.dll
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\EntityFramework.xml
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.csproj.AssemblyReference.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.Form1.resources
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.Properties.Resources.resources
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.csproj.GenerateResource.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.csproj.CoreCompileInputs.cache
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.csproj.Up2Date
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.exe
+C:\Users\Mint Phung\Documents\GitHub\Laptrinhwindow\Kiemtraa\obj\Debug\Kiemtraa.pdb
